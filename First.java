@@ -1,8 +1,8 @@
-/*  
+/*
 複数行コメント
 */
 public class First {
-  // 単一行コメント　
+  // 単一行コメント
   public static void main (String[] args) {
     System.out.println("RPG:スッキリ魔王征伐");
     System.out.println("Ver.0.1 by 湊");
