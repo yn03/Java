@@ -12,15 +12,12 @@ public class Main3 {
         case 0:
           System.out.print("A");
           break;
-
         case 1:
           System.out.print("T");
           break;
-
         case 2:
           System.out.print("G");
           break;
-
         case 3:
           System.out.print("C");
           break;
