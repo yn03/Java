@@ -3,7 +3,7 @@ public class Practice5_2{
     String title = "こんにゃく";
     String address = "uso@anvks.com";
     String text = "余ってるんです";
-  email(title,address,text);
+    email(title,address,text);
   }
 
   public static void email(String title,String address,String text){
